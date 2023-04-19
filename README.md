@@ -1,5 +1,5 @@
 # NGINX_LB_DockerCompose
-<h1> Load Balancer Mulitple Servers (Docker Containers) using NGINX. </h1>
+<h1> Load Balance Mulitple Servers (Docker Containers) using NGINX. </h1>
 
 <h3> This is a monorepo conatining two applications for the same purpose. </h3>
 
