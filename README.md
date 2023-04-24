@@ -8,8 +8,7 @@
 
 For more information check the individual Readme.
 
-<strong> Read the detailed article on: </strong>
-</br><a href = "https://medium.com/@sagarkrp/how-to-configure-nginx-to-load-balance-multiple-servers-nginx-docker-compose-c8e1d746f02b" target ="_blank"><img src = "https://img.shields.io/badge/medium-%23E4405G.svg?&style=for-the-badge&logo=medium&logoColor=black&white"></a>
+<h3> <strong> Read the detailed article on: </strong> </h3> <a href = "https://medium.com/@sagarkrp/how-to-configure-nginx-to-load-balance-multiple-servers-nginx-docker-compose-c8e1d746f02b" target ="_blank"><img src = "https://img.shields.io/badge/medium-%23E4405G.svg?&style=for-the-badge&logo=medium&logoColor=black&white"></a>
 
 
 ![lb](https://user-images.githubusercontent.com/42873729/233831427-92d5f42b-b411-4127-a059-a7e2bedeff8a.gif)
